@@ -15,15 +15,19 @@ Education
 
 Work experience
 ======
+* Oops, nothing to talk about here
   
 Skills
 ======
+* Oops, nothing to talk about here
 
 Publications
 ======
+* Oops, nothing to talk about here
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
+* Oops, nothing to talk about here
